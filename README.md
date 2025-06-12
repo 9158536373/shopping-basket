@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🛒 Shopping Basket - Delta Capita Technical Test
 
 This project is a TypeScript implementation of a shopping basket, developed for the Delta Capita Senior Developer assessment.
